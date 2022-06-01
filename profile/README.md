@@ -14,3 +14,26 @@
 <b>
   <p>Welcome to my portfolio!</p>
 </b>
+
+# Computer Science Courses Taken
+<ul>
+  <li>CPSC 1030: Web Development I</li>
+  <li>CPSC 1045: Introduction to Programming</li>
+  <li>CPSC 1050: Introduction to Computer Science</li>
+  <li>CPSC 1150: Program Design</li>
+  <li>CPSC 1160: Algorithms and Data Structures I</li>
+  <li>CPSC 1181: Object-Oriented Programming</li>
+  <li>CPSC 1480: Networking</li>
+  <li>CPSC 2130: Multimedia and Animation</li>
+  <li>CPSC 2221: Database Systems</li>
+</li>
+
+# Current Computer Science Course
+<ul>
+  <li>CPSC 2030: Web Development II</li>
+</ul>
+
+# Institutions
+<ul>
+  <li>Langara College (2020-present)</li>
+</ul>
