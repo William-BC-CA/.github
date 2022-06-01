@@ -12,7 +12,7 @@
 -->
 
 <b>
-  <p>Welcome to my portfolio!</p>
+  <p>Welcome to my portfolio! Can be OCD at times! Noob Programmer.</p>
 </b>
 
 # Computer Science Courses Taken
@@ -37,3 +37,5 @@
 <ul>
   <li>Langara College (2020-present)</li>
 </ul>
+
+# P.S: I LIKE MONEY...I MEAN COMPUTING!
