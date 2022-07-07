@@ -38,6 +38,7 @@
   <li>Langara College (2020-present)</li>
 </ul>
 
+<br>
 <b>
   <p>The forks that you see are projects that I've made personally for my own reasons/purposes.
 </b>
