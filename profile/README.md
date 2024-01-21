@@ -1,3 +1,3 @@
 <b>
-  <p>Visit: https://williamchan.dev/
+  <p>[UNDER RENOVATION] Visit: https://williamchan.dev/
 </b>
